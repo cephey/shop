@@ -26,6 +26,9 @@ def index_view(request, *args, **kwargs):
     </head>
     <body>
     
+    
+    11111111
+    
     {request.META}
     
     </body>
